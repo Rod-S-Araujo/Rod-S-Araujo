@@ -1,11 +1,8 @@
 
  # 👋 Hello World!... eu sou o Rodrigo...
- #### Bom... sou desenvolvedor Front-End, viciado em novas tecnologias e sempre em busca de novos desafios.
+ #### Bom... sou desenvolvedor, viciado em novas tecnologias e sempre em busca de novos desafios.
  #### De uma olhada nos meus projetos, para mante-los organizados separei em duas organizações, uma para os projetos que faço durante o processo de aprendizado e outra para os projetos que desenvolvo de maneira particular:
 
-| <a href="https://github.com/Rod-Araujo-Aprendizado" align="center"><img src="https://github.com/Rod-Araujo-Aprendizado.png" width="300"/></a> | <a href="https://github.com/Rodrigo-S-Araujo" align="center"><img src="https://github.com/Rodrigo-S-Araujo.png" width="300"/></a> |
-|:--:|:--:|
-|   <p>Projetos de aprendizado!</p> | <p>Projetos particulares!</p> |
 
 
 #### Atualmente aprendendo
