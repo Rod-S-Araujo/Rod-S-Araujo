@@ -21,5 +21,5 @@ Tenho experiência em:
 Estudo e pratico menos:  
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)  
 
-Hoje estou dedicado ao **Azure DevOps**, por isso os commits são poucos, mas estão lá! 😉
+Hoje estou dedicado ao **Azure DevOps**, por isso os commits aqui são poucos, mas estão lá! 😉
 ``
